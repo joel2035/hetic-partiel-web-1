@@ -1210,6 +1210,10 @@ table a, #comments a {
     overflow: auto;
     overflow-x: scroll;
   }
+  .wrapper {
+    display: flex;
+    justify-content: center;
+  }
   .scrollable table {
     margin: 0;
     padding: 0;
